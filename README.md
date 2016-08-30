@@ -1,3 +1,3 @@
-# cibrasil
-# Autor: Ramires Oliveira
 # Projeto CodeIgniter com CKEditor
+Autor: Ramires Oliveira
+
